@@ -1,3 +1,3 @@
-export default function SnippetShowLoading() {
-    return <div>Loadding...</div>;
+export default function SnippetLoadingPage() {
+  return <div>Loading...</div>;
 }
